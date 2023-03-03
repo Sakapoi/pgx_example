@@ -1,0 +1,5 @@
+comment = 'example:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/example'
+relocatable = false
+superuser = true
